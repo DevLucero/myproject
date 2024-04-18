@@ -1,0 +1,14 @@
+.navbar{
+    width: 100%;
+    background-color: rgb(0, 162, 255);
+    margin-bottom: 10px;
+    text-indent: 20px;
+    padding-bottom: 10px;
+    display: flex;
+}
+.ownname{
+    background-color: blueviolet;
+}
+.buttons{
+    background-color: red;
+}

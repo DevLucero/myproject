@@ -1,0 +1,13 @@
+.chat{
+    width: 100%;
+    height: 100%;
+    background-color: rebeccapurple;
+}
+.chat-header{
+    text-align: center;
+}
+.chat-message{
+    width: 80%;
+    height: 75%;
+    background-color: aqua;
+}
